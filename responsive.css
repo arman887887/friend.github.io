@@ -1,0 +1,189 @@
+@media screen and (min-width: 879px) and (max-width: 1033px){
+   .row .content{
+    padding-top: 70px;
+   }
+   .row .img img {
+    width: 325px;
+   }
+}
+@media  screen and (min-width:730px) and (max-width: 878px) {
+    .row .content{
+        padding-top: 40px;
+       }
+       .row .content h1{
+        font-size: 40px;
+       }
+       .row .img img {
+        width: 300px;
+       }
+       .container ul li{
+        margin: 7px 4px;
+        padding: 4px 13px;
+    }
+    .social-media img{
+        width: 20px;
+        margin-left: 12px;
+    }
+   }
+   @media  screen and (min-width: 693px) and (max-width: 729px) {
+    .row .content{
+        padding-top: 50px;
+       }
+       .row .content h1{
+        font-size: 35px;
+       }
+       .row .img img {
+        width: 270px;
+       }
+       .container ul li{
+        margin: 7px 4px;
+        padding: 4px 13px;
+    }
+    .row {
+        margin-top: 122px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .social-media img{
+        width: 20px;
+        margin-left: 12px;
+    }
+   }
+   @media screen and (min-width:637px) and (max-width: 692px){
+    .row .content{
+        padding-top: 0px;
+       }
+       .row .content h1{
+        font-size: 33px;
+       }
+       .row .img img {
+        width: 230px;
+       }
+       .container ul li{
+        margin: 7px 4px;
+        padding: 4px 10px;
+    }
+    .row {
+        margin-top: 160px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .social-media img{
+        width: 18px;
+        margin-left: 9px;
+    }
+   }
+
+   @media screen and (min-width: 555px) and (max-width:636px)  {
+    .row .content{
+        padding-top: 0px;
+       }
+       .row .content h1{
+        font-size: 27px;
+       }
+       .row .content p{
+        font-size: 13px;
+       }
+       .row .img img {
+        width: 200px;
+       }
+       .container ul li{
+        margin: 5px 3px;
+        padding: 3px 8px;
+    }
+    .row {
+        margin-top: 200px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .graphic, b{
+        font-size: 16px;
+    }
+    .container ul {
+        top: -18px;
+    }
+    .social-media img{
+        width: 16px;
+        margin-left: 9px;
+    }
+   }
+
+
+   @media screen and (min-width:433px) and (max-width: 554px) {
+    .row .content{
+        padding-top: 0px;
+       }
+       .row .content h1{
+        font-size: 27px;
+       }
+       .row .content p{
+        font-size: 10px;
+       }
+       .row .img img {
+        width: 200px;
+       }
+       .container ul li{
+        margin: 3px 3px;
+        padding: 2px 6px;
+    }
+    .row {
+        margin-top: 200px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .graphic, b{
+        font-size: 16px;
+    }
+    .container ul {
+        top: -14px;
+    }
+    .container ul li a {
+        font-size: 13px;
+    }
+    .social-media img{
+        width: 14px;
+        margin-left: 8px;
+    }
+   }
+
+
+   @media screen and (max-width:432px) {
+    .row .content{
+        padding-top: 0px;
+        width: 74%;
+       }
+       .row .content h1{
+        font-size: 31px;
+       }
+       .row .content p{
+        font-size: 13px;
+       }
+       .row .img img {
+        padding-top: 50px;
+        width: 230px;
+       }
+       .container ul li{
+        margin: 3px 3px;
+        padding: 2px 6px;
+    }
+    .row {
+        flex-direction: column;
+        
+        align-items: center;
+        margin-top: 100px;
+        
+    }
+    .graphic, b{
+        font-size: 18px;
+    }
+    .container ul {
+        top: -14px;
+    }
+    .container ul li a {
+        font-size: 10px;
+    }
+    .social-media img{
+        width: 12px;
+        margin-left: 2px;
+    }
+   }
