@@ -156,7 +156,7 @@
         font-size: 31px;
        }
        .row .content p{
-        font-size: 13px;
+        font-size: 15px;
        }
        .row .img img {
         padding-top: 50px;
@@ -180,10 +180,17 @@
         top: -14px;
     }
     .container ul li a {
-        font-size: 10px;
+        font-size: 13px;
     }
     .social-media img{
         width: 12px;
         margin-left: 2px;
+    }
+    .links h1{
+       font-size: 23px;
+    }
+    .gallery-container ul li{
+        margin-right: 7px;
+        font-size: 14px;
     }
    }
